@@ -12,3 +12,17 @@ Purpose of this App is to help people choose thier travel desitination based on 
 
 - Data sources: [weather_Database](/weather_Database/WeatherPy_Database.csv)
 - Software : Python 3.7, Anaconda, Jupyter Notebook, Pandas.
+
+## Summary 
+
+- The Travel App allows customers to search for locations they want to travel based on their temperature preferences.
+
+- Once the customers have filtered the database (DataFrame) based on their temperature preferences, a heatmap will be showed to them for the maximum temperature for the filtered cities around the world.
+
+Heatmap image
+
+A weather description to the pop-up markers will be displayed for customers so that they know what the weather is as they are traveling.
+
+A map that shows the directions between multiple cities for customers’ travel itinerary will be displayed.
+
+A map that shows the directions between multiple cities with the details of the nearest hotel for customers’ travel itinerary will be also be displayed if selected by the customer.
