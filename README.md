@@ -2,8 +2,12 @@
 
 ## Project Overview
 
-Use google maps API and OpenWeather API to create heatmaps and pop-up location markers for hotels within a certain radius of the cities where our customers travel.
+Purpose of this App is to help people choose thier travel desitination based on Temprature and Weather Conditions including:
 
-Task: Collect and analyze weather data across cities worldwide.
-Purpose: Use the data to recommend ideal hotels based on clients’ weather preferences.
-Method: Create a Pandas DataFrame with 500 or more of the world’s unique cities and their weather data in real time. This process will entail collecting, analyzing, and visualizing the data.
+1- A weather description to the pop-up markers for customers so that they know what the weather is as they are traveling.
+2- A notation in the search criteria to indicate if it is raining or snowing for customers who are making travel decisions in real-time.
+3- A map that shows the directions for customers’ travel itinerary.
+
+Resources
+Data sources: [weather_Database] (/weather_Database/WeatherPy_Database.csv)
+Software : Python 3.7, Anaconda, Jupyter Notebook, Pandas.
