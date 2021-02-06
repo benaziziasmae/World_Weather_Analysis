@@ -9,6 +9,6 @@ Purpose of this App is to help people choose thier travel desitination based on 
 3- A map that shows the directions for customers’ travel itinerary.
 
 Resources
-Data sources: [weather_Database] (/weather_Database/WeatherPy_Database.csv)
+Data sources: [weather_Database](/weather_Database/WeatherPy_Database.csv)
 
 Software : Python 3.7, Anaconda, Jupyter Notebook, Pandas.
