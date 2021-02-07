@@ -46,3 +46,4 @@ A map that shows the directions between multiple cities with the details of the 
 
 ![WeatherPy_travel_map_markers](/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
+
