@@ -46,8 +46,9 @@ These different categories of information make it easy for travelers to choose e
 
 In order to create a user travel map, we had to retrieve customer weather preferences, then use those preferences to identify potential travel destinations and nearby hotels. Then, show those destinations on a marker layer map with pop-up markers.
 
-The map below shows the location of hotels around the world according to the weather preferrencies.
+We take the information gained in the weather database and uses Google Maps API to plot different travel destinations with a hotel at each location. The image below shows the locations of all the places in the database that have an daily maximum temperature between 75 and 90 degrees farinheit.
 
+The map below shows the location of hotels around the world according to the weather preferrencies.
 
 ![WeatherPy_vacation_map](/Vacation_search/WeatherPy_vacation_map.png)
 
@@ -55,9 +56,7 @@ The map below shows the location of hotels around the world according to the wea
 
 In order to create a user travel itenerary map, wa had to use the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. Then, create a marker layer map with a pop-up marker for each city on the itinerary.
 
-In My case I choose **Mexico as a summer destination**.
-
-The map below shows the directions between multiple cities within **Mexico**, and the travel itinerary will be displayed.
+Then we take the search information from the search folder and uses Google Maps *Directions API* to create a vacation itinerary. For example, the map below shows a 4 stop itinerary in **Mexico** that features  Tomatlan, Lazaro Cardenas,Fresnillo, and San Blas to arrive finally to Cabo San Lucas.
 
 ![Vacation_Itinerary](/Vacation_Itinerary/WeatherPy_travel_map.png)
 
