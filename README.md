@@ -26,8 +26,8 @@ A weather description to the pop-up markers will be displayed for customers so t
 
 A map that shows the directions between multiple cities for customers’ travel itinerary will be displayed.
 
-[Vacation_Itinerary](/Vacation_Itinerary/WeatherPy_travel_map.png)
+![Vacation_Itinerary](/Vacation_Itinerary/WeatherPy_travel_map.png)
 
 A map that shows the directions between multiple cities with the details of the nearest hotel for customers’ travel itinerary will be also be displayed if selected by the customer.
 
-[WeatherPy_travel_map_markers](/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+![WeatherPy_travel_map_markers](/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
