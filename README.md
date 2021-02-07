@@ -35,9 +35,10 @@ The map below shows the location of hotels around the world according to the wea
 ## Deliverable 3
 
 In order to create a user travel itenerary map, wa had to use the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. Then, create a marker layer map with a pop-up marker for each city on the itinerary.
-In My case I choose Mexico as a summer destination
 
-the map below shows the directions between multiple cities within Mexico, and the travel itinerary will be displayed.
+In My case I choose **Mexico as a summer destination**.
+
+The map below shows the directions between multiple cities within **Mexico**, and the travel itinerary will be displayed.
 
 ![Vacation_Itinerary](/Vacation_Itinerary/WeatherPy_travel_map.png)
 
