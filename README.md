@@ -24,6 +24,10 @@ By using Google API's we will also help the customers with ideal hotels suggesti
 
 In order to create the vacation map, we generated a list of 2,000 random latitudes and longitudes. With the coordinates, we retrieved and compiled a list of the nearest cities using the citipy module and perform an API call with the OpenWeatherMap. Then, we used the OpenWeatherMap API to request the current weather data from each unique city on the list. The resulting map provides users with descriptions of the destinations found on our list, including: hotel name, city, country, and current weather and description. 
 
+We generate the following database:
+
+[WeatherPy_Database](/weather_Database/WeatherPy_Database.csv)
+
 ## Deliverable 2
 
 In order to create a user travel map, we had to retrieve customer weather preferences, then use those preferences to identify potential travel destinations and nearby hotels. Then, show those destinations on a marker layer map with pop-up markers.
