@@ -12,6 +12,8 @@ The puporse of this analysis is to create a vacation map that allows users to ch
 
 By using Google API's we will also help the customers with ideal hotels suggestions within there preferred destinations.
 
+- There are three folders here that offer different levels of analysis: weather database, vacation search, and vacation itinerary.(let's break them down._
+
 ## Resources
 
 - Data sources: [weather_Database](/weather_Database/WeatherPy_Database.csv)
@@ -26,13 +28,26 @@ In order to create the vacation map, we generated a list of 2,000 random latitud
 
 We generate the following database:
 
+**WeatherPy_Database**
+
+This folder uses Open Weather Map API to pull weather information on over 700 different cities around the world. That information consists of:
+
+- Maximum Temperature
+- Cloudiness
+- Wind Speed
+- Humidity
+- Current Weather Description
+
+These different categories of information make it easy for travelers to choose exactly what they are looking for in a travel destination.
+
 [WeatherPy_Database](/weather_Database/WeatherPy_Database.csv)
 
 ## Deliverable 2
 
 In order to create a user travel map, we had to retrieve customer weather preferences, then use those preferences to identify potential travel destinations and nearby hotels. Then, show those destinations on a marker layer map with pop-up markers.
 
-The map below shows the location of hotels around the world according to the weather preferrencies
+The map below shows the location of hotels around the world according to the weather preferrencies.
+
 
 ![WeatherPy_vacation_map](/Vacation_search/WeatherPy_vacation_map.png)
 
