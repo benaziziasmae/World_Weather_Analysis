@@ -20,7 +20,7 @@ Purpose of this App is to help people choose thier travel desitination based on 
 
 - Once the customers have filtered the database (DataFrame) based on their temperature preferences, a heatmap will be showed to them for the maximum temperature for the filtered cities around the world.
 
-Heatmap image
+![Vacation_search](/Vacation_search/WeatherPy_vacation_map.png)
 
 A weather description to the pop-up markers will be displayed for customers so that they know what the weather is as they are traveling.
 
